@@ -2,6 +2,7 @@
 A red square that converts a decimal to all kinds of different bases.
 
 WARNING: don't type in letters.
+
 BONUS WARNING: some ASCII characters appear as a blank space.
 
 This is a program I made for fun. To get started, type a decimal number in on the left, 
