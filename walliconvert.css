@@ -54,14 +54,30 @@
         }
         img {
             display: block;
-            clear: both;
             margin-left: auto;
             margin-right: auto;
         }
         #title {
             margin-right: auto;
             margin-left: auto;
-            display: inline;
+            display: block;
+            width: 107px;
+        }
+        #title h1 {
+            margin-left: 6px;
+            float: left;
+        }
+        #title img {
+            float: left;
+            margin-top: 28px;
+        }
+        #title h1 {
+            margin-left: 6px;
+            float: left;
+        }
+        #title img {
+            float: left;
+            margin-top: 28px;
         }
         #smartremark {
             display: inline;
